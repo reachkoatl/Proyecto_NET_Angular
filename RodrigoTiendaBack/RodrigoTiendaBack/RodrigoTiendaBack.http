@@ -1,0 +1,6 @@
+@RodrigoTiendaBack_HostAddress = http://localhost:5225
+
+GET {{RodrigoTiendaBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodri\\proyectos\\Proyecto_NET_Angular\\RodrigoTiendaBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F700012-FE25-4273-8B2B-AE6637158D6A}|RodrigoTiendaBack\\RodrigoTiendaBack.csproj|c:\\users\\rodri\\proyectos\\proyecto_net_angular\\rodrigotiendaback\\rodrigotiendaback\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F700012-FE25-4273-8B2B-AE6637158D6A}|RodrigoTiendaBack\\RodrigoTiendaBack.csproj|solutionrelative:rodrigotiendaback\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2707C6F-F850-43AF-95C4-354924D9A1C4}|RodrigoTiendaBack.Business\\RodrigoTiendaBack.Business.csproj|c:\\users\\rodri\\proyectos\\proyecto_net_angular\\rodrigotiendaback\\rodrigotiendaback.business\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2707C6F-F850-43AF-95C4-354924D9A1C4}|RodrigoTiendaBack.Business\\RodrigoTiendaBack.Business.csproj|solutionrelative:rodrigotiendaback.business\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2707C6F-F850-43AF-95C4-354924D9A1C4}|RodrigoTiendaBack.Business\\RodrigoTiendaBack.Business.csproj|c:\\users\\rodri\\proyectos\\proyecto_net_angular\\rodrigotiendaback\\rodrigotiendaback.business\\itiendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2707C6F-F850-43AF-95C4-354924D9A1C4}|RodrigoTiendaBack.Business\\RodrigoTiendaBack.Business.csproj|solutionrelative:rodrigotiendaback.business\\itiendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2707C6F-F850-43AF-95C4-354924D9A1C4}|RodrigoTiendaBack.Business\\RodrigoTiendaBack.Business.csproj|c:\\users\\rodri\\proyectos\\proyecto_net_angular\\rodrigotiendaback\\rodrigotiendaback.business\\iarticuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2707C6F-F850-43AF-95C4-354924D9A1C4}|RodrigoTiendaBack.Business\\RodrigoTiendaBack.Business.csproj|solutionrelative:rodrigotiendaback.business\\iarticuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4677DFA8-CE15-4863-9E9F-DFA898C4E884}|RodrigoTiendaBack.Data\\RodrigoTiendaBack.Data.csproj|c:\\users\\rodri\\proyectos\\proyecto_net_angular\\rodrigotiendaback\\rodrigotiendaback.data\\rodrigotiendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4677DFA8-CE15-4863-9E9F-DFA898C4E884}|RodrigoTiendaBack.Data\\RodrigoTiendaBack.Data.csproj|solutionrelative:rodrigotiendaback.data\\rodrigotiendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\proyectos\\Proyecto_NET_Angular\\RodrigoTiendaBack\\RodrigoTiendaBack\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "RodrigoTiendaBack\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\rodri\\proyectos\\Proyecto_NET_Angular\\RodrigoTiendaBack\\RodrigoTiendaBack\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "RodrigoTiendaBack\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T03:42:20.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\proyectos\\Proyecto_NET_Angular\\RodrigoTiendaBack\\RodrigoTiendaBack.Business\\IClienteService.cs",
+              "RelativeDocumentMoniker": "RodrigoTiendaBack.Business\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\rodri\\proyectos\\Proyecto_NET_Angular\\RodrigoTiendaBack\\RodrigoTiendaBack.Business\\IClienteService.cs",
+              "RelativeToolTip": "RodrigoTiendaBack.Business\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T03:22:58.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITiendaService.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\proyectos\\Proyecto_NET_Angular\\RodrigoTiendaBack\\RodrigoTiendaBack.Business\\ITiendaService.cs",
+              "RelativeDocumentMoniker": "RodrigoTiendaBack.Business\\ITiendaService.cs",
+              "ToolTip": "C:\\Users\\rodri\\proyectos\\Proyecto_NET_Angular\\RodrigoTiendaBack\\RodrigoTiendaBack.Business\\ITiendaService.cs",
+              "RelativeToolTip": "RodrigoTiendaBack.Business\\ITiendaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T03:24:25.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IArticuloService.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\proyectos\\Proyecto_NET_Angular\\RodrigoTiendaBack\\RodrigoTiendaBack.Business\\IArticuloService.cs",
+              "RelativeDocumentMoniker": "RodrigoTiendaBack.Business\\IArticuloService.cs",
+              "ToolTip": "C:\\Users\\rodri\\proyectos\\Proyecto_NET_Angular\\RodrigoTiendaBack\\RodrigoTiendaBack.Business\\IArticuloService.cs",
+              "RelativeToolTip": "RodrigoTiendaBack.Business\\IArticuloService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T03:23:59.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RodrigoTiendaContext.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\proyectos\\Proyecto_NET_Angular\\RodrigoTiendaBack\\RodrigoTiendaBack.Data\\RodrigoTiendaContext.cs",
+              "RelativeDocumentMoniker": "RodrigoTiendaBack.Data\\RodrigoTiendaContext.cs",
+              "ToolTip": "C:\\Users\\rodri\\proyectos\\Proyecto_NET_Angular\\RodrigoTiendaBack\\RodrigoTiendaBack.Data\\RodrigoTiendaContext.cs",
+              "RelativeToolTip": "RodrigoTiendaBack.Data\\RodrigoTiendaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T03:18:50.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
